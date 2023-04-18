@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  text-align: center;
+  padding: 10px;
+}
+
+.main-title {
+  background-color: azure;
+  padding: 20px;
+}
+
+.main-container {
+  padding: 75px;
+  background-color: aquamarine;
+}
+
+.game-buttons {
+  padding: 30px;
+  margin: 25px;
+}
+
+.buttons {
+  padding: 25px;
+  margin: 25px;
+}
